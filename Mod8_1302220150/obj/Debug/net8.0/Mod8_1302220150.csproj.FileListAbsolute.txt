@@ -1,0 +1,15 @@
+C:\Users\haika\Downloads\Jurnal online\Mod8_1302220150\Mod8_1302220150\bin\Debug\net8.0\Mod8_1302220150.exe
+C:\Users\haika\Downloads\Jurnal online\Mod8_1302220150\Mod8_1302220150\bin\Debug\net8.0\Mod8_1302220150.deps.json
+C:\Users\haika\Downloads\Jurnal online\Mod8_1302220150\Mod8_1302220150\bin\Debug\net8.0\Mod8_1302220150.runtimeconfig.json
+C:\Users\haika\Downloads\Jurnal online\Mod8_1302220150\Mod8_1302220150\bin\Debug\net8.0\Mod8_1302220150.dll
+C:\Users\haika\Downloads\Jurnal online\Mod8_1302220150\Mod8_1302220150\bin\Debug\net8.0\Mod8_1302220150.pdb
+C:\Users\haika\Downloads\Jurnal online\Mod8_1302220150\Mod8_1302220150\obj\Debug\net8.0\Mod8_1302220150.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haika\Downloads\Jurnal online\Mod8_1302220150\Mod8_1302220150\obj\Debug\net8.0\Mod8_1302220150.AssemblyInfoInputs.cache
+C:\Users\haika\Downloads\Jurnal online\Mod8_1302220150\Mod8_1302220150\obj\Debug\net8.0\Mod8_1302220150.AssemblyInfo.cs
+C:\Users\haika\Downloads\Jurnal online\Mod8_1302220150\Mod8_1302220150\obj\Debug\net8.0\Mod8_1302220150.csproj.CoreCompileInputs.cache
+C:\Users\haika\Downloads\Jurnal online\Mod8_1302220150\Mod8_1302220150\obj\Debug\net8.0\Mod8_1302220150.sourcelink.json
+C:\Users\haika\Downloads\Jurnal online\Mod8_1302220150\Mod8_1302220150\obj\Debug\net8.0\Mod8_1302220150.dll
+C:\Users\haika\Downloads\Jurnal online\Mod8_1302220150\Mod8_1302220150\obj\Debug\net8.0\refint\Mod8_1302220150.dll
+C:\Users\haika\Downloads\Jurnal online\Mod8_1302220150\Mod8_1302220150\obj\Debug\net8.0\Mod8_1302220150.pdb
+C:\Users\haika\Downloads\Jurnal online\Mod8_1302220150\Mod8_1302220150\obj\Debug\net8.0\Mod8_1302220150.genruntimeconfig.cache
+C:\Users\haika\Downloads\Jurnal online\Mod8_1302220150\Mod8_1302220150\obj\Debug\net8.0\ref\Mod8_1302220150.dll
